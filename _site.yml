@@ -10,7 +10,7 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/Heloise04/Heloise_blog.git
+      href: https://github.com/Heloise04/Heloise_blog
 base_url: Heloise04.github.io/Heloise_blog/
 collections:
     posts:

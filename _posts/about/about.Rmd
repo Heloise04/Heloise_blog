@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Plasman Héloïse" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -9,3 +9,4 @@ output: distill::distill_article
 This section must bu include a short presentation of you.
 
 - first name/surname, teacher’s name, class name and academic year
+Héloïse Plasman, Bénédicte Bouchet, BAB2 (group 4), 2020-2021

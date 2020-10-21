@@ -7,6 +7,12 @@ output: distill::distill_article
 ---
 
 This section must bu include a short presentation of you.
+Hi, 
+I'm Héloïse Plasman, I'm in 2^nd grade in Biology in the Univerty of Mons in Belgium. 
+I aways like Sciences in general since a long time. That's why I was already studying Sciences in secondary school. 
+I have also had English courses since I was in kinder garden because I was in a immersion school. 
+
+Besides studies my big passion is pastry and cooking in general. It helps me destress.
 
 - first name/surname, teacher’s name, class name and academic year
-Héloïse Plasman, Bénédicte Bouchet, BAB2 (group 4), 2020-2021
+My names is Héloïse Plasman and my English teacher is Bénédicte Bouchet, I'm in BAB2 (group 4), 2020-2021

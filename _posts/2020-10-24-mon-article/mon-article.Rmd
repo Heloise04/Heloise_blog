@@ -6,7 +6,7 @@ author:
   - name: Plasman Héloïse
     url: Heloise04.github.io/Heloise_blog/
 date: 10-24-2020
-bibliography: biblio/AI Alzheimer.bib
+bibliography: biblio/AI Alzheimer
 output:
   distill::distill_article:
     self_contained: false
@@ -44,42 +44,30 @@ But the actual diagnosis will always be taken by the doctor and the AI will neve
 
 
 #### *Researchers ?*
-
-
 * UK's Alzheimer's Society
 * Fiona Carragher, director of Research at the Alzheimer's Society
 * IBM Research and pharmaceutical giant Pfizer
 * Ajay Royyuru, IBM's vice-president of Healthcare Research
 
 #### *Published in ? when (if mentioned) ?*
-
-
 The Lancet eClinicalMedicine journal 
 23th October 2020
 
 
 #### *General topic*
-
-
 AI and Alzheimer
 
 
 #### *Procedure/ what was examined* 
-
-
 * Description of a scene, a picture 
 * AI found changes in the language which indicate cognitive decline
 
 
 #### *Conclusion / discovery* 
-
-
 It’s a great thing to found out up to 7 years before developing the disease
 The AI will not give the diagnosis but will help the doctor 
 
 
 #### *Remaining questions*
-
-
 /
 

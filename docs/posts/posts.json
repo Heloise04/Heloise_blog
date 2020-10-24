@@ -1,18 +1,20 @@
 [
   {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
+    "path": "posts/2020-10-24-mon-article/",
+    "title": "Article 1 : The AI that spots Alzheimer's from cookie drawing",
+    "description": "A short description of the post.",
     "author": [
       {
         "name": "Plasman Héloïse",
-        "url": {}
+        "url": {
+          "https://heloise04.github.io/Heloise_blog/": {}
+        }
       }
     ],
-    "date": "2020-10-21",
+    "date": "2020-10-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-21T15:13:51+02:00"
+    "last_modified": "2020-10-24T15:54:21+02:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
@@ -32,16 +34,31 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-10-24",
     "categories": [
       "English for Science",
       "Bacteria",
       "Adaptation"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:47:33+02:00",
+    "last_modified": "2020-10-24T17:02:06+02:00",
     "preview_width": 3333,
     "preview_height": 2667
+  },
+  {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-21T15:13:51+02:00"
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",

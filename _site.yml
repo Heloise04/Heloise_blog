@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Humans and Technology, Is It a Good or a Bad Thing ? "
+title: "Héloïse's blog"
 output_dir: "docs"
 navbar:
   right:

@@ -6,9 +6,7 @@ author:
   - name: Plasman Héloïse
     url: Heloise04.github.io/Heloise_blog/
 date: 10-24-2020
-preview: images/cookietheft.jpg
-#draft: TRUE
-bibliography: biblio/bacteria.bib
+bibliography: biblio/AI Alzheimer.bib
 output:
   distill::distill_article:
     self_contained: false
@@ -18,5 +16,70 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![The AI analysed responses to what is happening in this picture:two children stealing cookies behind their mother's back](images/cookietheft.jpg)
+This post is an analysis of Analysis of *The AI that spots Alzheimer's from cookie drawingt*
 
+
+## Summary 
+
+The AI (artificial intelligence) can help to diagnose early the Alzheimer, about 7 years before the symptoms really appear. 
+
+This method involves analyzing the way people describe a scene that is drawn like the one above. Depending on how people express themselves for example if they change slightly their language, if they do grammar errors or change their tenses structures, we can diagnose whether people will suffer from Alzheimer.
+
+This is really important for treatment, because more we diagnose it quickly, better the treatment and the person's comfort of life will be. 
+
+But the actual diagnosis will always be taken by the doctor and the AI will never decide.
+
+
+## Vocabulary: 
+
+| Words from the text 	| Synonym / explanation in English 	|
+|:-------------------:	|:--------------------------------:	|
+|      samples     	|       A small number or amount of sb/sth that is looked at, tested, examined, etc. to find out what the rest is like            	|
+|         excerpts          	|       A short piece taken from a book, film, piece of music, etc            	|
+|      acknowledged     	|       To accept or admit that sth is true or exist            	|
+
+
+## Analysis table about the study
+
+
+#### *Researchers ?*
+
+
+* UK's Alzheimer's Society
+* Fiona Carragher, director of Research at the Alzheimer's Society
+* IBM Research and pharmaceutical giant Pfizer
+* Ajay Royyuru, IBM's vice-president of Healthcare Research
+
+#### *Published in ? when (if mentioned) ?*
+
+
+The Lancet eClinicalMedicine journal 
+23th October 2020
+
+
+#### *General topic*
+
+
+AI and Alzheimer
+
+
+#### *Procedure/ what was examined* 
+
+
+* Description of a scene, a picture 
+* AI found changes in the language which indicate cognitive decline
+
+
+#### *Conclusion / discovery* 
+
+
+It’s a great thing to found out up to 7 years before developing the disease
+The AI will not give the diagnosis but will help the doctor 
+
+
+#### *Remaining questions*
+
+
+/
 

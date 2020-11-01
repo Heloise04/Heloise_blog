@@ -14,7 +14,7 @@ navbar:
 base_url: Heloise04.github.io/Heloise_blog/
 collections:
     posts:
-      disqus: heloises-blog-3
+      disqus: https-github-com-heloise04-heloise-blog
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:

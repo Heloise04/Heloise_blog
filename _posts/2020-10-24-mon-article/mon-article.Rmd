@@ -6,8 +6,8 @@ author:
   - name: Plasman Héloïse
     url: Heloise04.github.io/Heloise_blog/
 date: 10-24-2020
-bibliography: biblio/AI_Alzheimer.bib
-output:
+bibliography: AI_Alzheimer.bib
+output: html_document
   distill::distill_article:
     self_contained: false
 ---

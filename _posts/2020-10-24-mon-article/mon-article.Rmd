@@ -7,7 +7,7 @@ author:
     url: Heloise04.github.io/Heloise_blog/
 date: 10-24-2020
 bibliography: AI_Alzheimer.bib
-output: html_document
+output: 
   distill::distill_article:
     self_contained: false
 ---
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![The AI analysed responses to what is happening in this picture:two children stealing cookies behind their mother's back](images/cookietheft.jpg)
 This post is an analysis of Analysis of *The AI that spots Alzheimer's from cookie drawingt*
-
+[@2020AI]
 
 ## Summary 
 

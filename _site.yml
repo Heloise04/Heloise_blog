@@ -11,10 +11,10 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/Heloise04/Heloise_blog
-base_url: Heloise04.github.io/Heloise_blog/
+base_url: http://Heloise04.github.io/Heloise_blog/
 collections:
     posts:
-      disqus: heloises-blog-3
+      disqus: "heloises-blog-3"
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:

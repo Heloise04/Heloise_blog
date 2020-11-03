@@ -4,7 +4,7 @@ description: |
   Analyse of how the AI can help diagnose Alzheimer.
 author:
   - name: Plasman Héloïse
-    url: Heloise04.github.io/Heloise_blog/
+    url: {http://Heloise04.github.io/Heloise_blog/}
 date: 10-24-2020
 bibliography: AI_Alzheimer.bib
 output: 

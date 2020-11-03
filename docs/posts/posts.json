@@ -29,19 +29,21 @@
     "preview_height": 2667
   },
   {
-    "path": "posts/2020-10-24-mon-article/",
+    "path": "posts/2020-10-24-mon-article 1/",
     "title": "Article 1 : The AI that spots Alzheimer's from cookie drawing",
     "description": "Analyse of how the AI can help diagnose Alzheimer.",
     "author": [
       {
         "name": "Plasman Héloïse",
-        "url": "Heloise04.github.io/Heloise_blog/"
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
       }
     ],
     "date": "2020-10-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-02T14:12:44+01:00"
+    "last_modified": "2020-11-03T16:09:32+01:00"
   },
   {
     "path": "posts/about/",

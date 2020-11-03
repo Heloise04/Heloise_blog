@@ -1,12 +1,12 @@
 ---
-title: "Article 2 : Nanotechnologies"
+title: "Article 2 : "
 description: |
-  What is nanotechnology and what is it used for ?
-author: Plasman Héloïse
-  - name: Student Unknown
-    url: {http://Heloise04.github.io/Heloise_blog/}
+  
+author:
+  - name: Plasman Héloïse
+    url: {}
 date: 11-03-2020
-preview: image/image.jpg
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -16,7 +16,37 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## Summary 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+## Vocabulary: 
+
+| Words from the text 	| Synonym / explanation in English 	|
+|:-------------------:	|:--------------------------------:	|
+|||
+|||
+|||
+
+
+## Analysis table about the study
+
+
+#### *Researchers ?*
+* 
+
+#### *Published in ? when (if mentioned) ?*
+
+
+
+#### *General topic*
+
+
+#### *Procedure/ what was examined* 
+
+
+#### *Conclusion / discovery* 
+
+
+
+#### *Remaining questions*
 

@@ -1,0 +1,34 @@
+---
+title: "Is There different sizes in zooplankton ? "
+Catégorie : Data Sciences I 
+description: |
+  Analysis of different classes of zooplankton to know their size
+author:
+  - name: Plasman Héloïse
+    url: {http://Heloise04.github.io/Heloise_blog/}
+date: 11-10-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+SciViews::R
+```
+
+```{r importation}
+data <- read("zooplankton", package = "data.io")
+```
+
+# Introduction and presentation of the data base 
+
+I chose to work mainly with the following data : the size and the class of zooplankton. We will see if the class to which they belong influences or characterizes their size.
+
+
+```{r graphique}
+chart(data = zooplankton, class ~ size %col=% class) +
+  ggridges::geom_density_ridges()
+```
+
+We can see that Cnidarian and Chaetognath tends to be taller than any other classes of zooplankton. But we can also observe that these 2 classes have a greater distribution in their size and so there are less in each size but they are spread over a larger interval. While most of the other classes appear to be predominantly small.

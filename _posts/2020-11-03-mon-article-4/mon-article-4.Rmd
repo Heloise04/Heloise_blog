@@ -1,5 +1,5 @@
 ---
-title: "Article 4"
+title: "Article 4 :"
 description: |
   A short description of the post.
 author:
@@ -14,8 +14,45 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+_Source of the article_ : BBC News
+_Word count_ : 
+_URL_ : https://www.bbc.com/news/technology-54980348  
 
-Distill is a publication format for scientific and technical writing, native to the web.
+## Summary 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+## Vocabulary: 
+
+| Words from the text 	| Synonym / explanation in English 	|
+|:-------------------:	|:--------------------------------:	|
+|||
+|||
+
+
+## Analysis table about the study
+
+
+#### *Researchers ?*
+
+
+
+#### *Published in ? when (if mentioned) ?*
+
+
+
+#### *General topic*
+
+
+
+#### *Procedure/ what was examined* 
+
+
+
+#### *Conclusion / discovery* 
+
+
+
+#### *Remaining questions*
+
+
 

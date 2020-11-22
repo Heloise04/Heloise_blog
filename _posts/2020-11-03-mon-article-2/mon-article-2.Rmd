@@ -1,7 +1,7 @@
 ---
-title: "Article 2 : Technology In Our Life Today And How It Has Changed"
+title: "Article 2 : Tech Tent: Will better batteries persuade us to go electric?"
 description: |
-  
+  A short description of the post.
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
@@ -16,49 +16,44 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-_Source of the article_ : Aging in Place
-_Word count_ : 509
-_URL_ : https://aginginplace.org/technology-in-our-life-today-and-how-it-has-changed/ 
+_Source of the article_ : BBC News
+_Word count_ : 707
+_URL_ : https://www.bbc.com/news/technology-55016147
 
 
 ## Summary 
-Tecnology is everyway, in every body's life and we can't deny the fact that it really helps and that it changes our life forever. 
+
 
 ## Vocabulary: 
 
 | Words from the text 	| Synonym / explanation in English 	|
 |:-------------------:	|:--------------------------------:	|
-|purchase|The act og buying sth; Something that you buy|
-|overwhelming|Extremely great or strong |
+|||
+|||
 
 
 ## Analysis table about the study
 
 
 #### *Researchers ?*
-/
+
 
 
 #### *Published in ? when (if mentioned) ?*
-Aging in Place 
-November 2020
+
 
 
 #### *General topic*
-Technology in our life
+
 
 
 #### *Procedure/ what was examined* 
-Every aspect of technology : 
-* Social media 
-* Device to help older people 
-* All different connected devices
-How technology help us in everyday life
+
 
 
 #### *Conclusion / discovery* 
-Technology is already everyway but it tends to be even more present in future 
+
 
 
 #### *Remaining questions*
-How technology will continue to change our life ?
+

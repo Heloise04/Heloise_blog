@@ -1,5 +1,5 @@
 ---
-title: "Article 3:"
+title: "Article 3 : Tech Tent: Who needs 5G?"
 description: |
   A short description of the post.
 author:
@@ -15,7 +15,44 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+_Source of the article_ : BBC News
+_Word count_ : 852
+_URL_ : https://www.bbc.com/news/technology-54574320 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Summary 
+
+
+## Vocabulary: 
+
+| Words from the text 	| Synonym / explanation in English 	|
+|:-------------------:	|:--------------------------------:	|
+|||
+|||
+
+
+## Analysis table about the study
+
+
+#### *Researchers ?*
+
+
+
+#### *Published in ? when (if mentioned) ?*
+
+
+
+#### *General topic*
+
+
+
+#### *Procedure/ what was examined* 
+
+
+
+#### *Conclusion / discovery* 
+
+
+
+#### *Remaining questions*
+
 

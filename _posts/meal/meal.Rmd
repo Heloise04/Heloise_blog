@@ -1,7 +1,7 @@
 ---
 title: "My English Activity Log : MEAL"
 author:
-  - name: "___" 
+  - name: "Plasman Héloïse" 
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
@@ -9,23 +9,19 @@ categories:
 output: distill::distill_article
 ---
 
+Here a few thing that I do and that I did in English during my life : 
 
-Here are a few examples (some of them are based on examples I've read on blogs so far):
+* Since I'm 5 years old I pratice English at school because like I mention in the section "about me" I did an immersion school. 
 
-- Sept. 25th: I downloaded the 'BBC News' App on my phone. I've started reading/watching the news on the train for 15 min.
+* Since a long time I listen and watch to a lot of Youtube videos in English, it's often video about food and cooking because I love that. 
 
-- Oct. 5th: I watched 2 episodes of The Big Bang Theory (English with English subtitles). Pretty funny episodes.
+* I often read recipes in English to have the best recipe of the original dishes like pancakes,...
 
-- Oct. 7th: I read 2 chapters of The Immortal Life of Henrietta Lacks. I found the book very interesting so far! It's quite sad but it's important to understand that we don't just work with cells. There are people and stories behind these cells.
+* I have already read 2 books in Engish. It was talking about Greeek Mythology and was writen by the same author as "Percy Jackson"
 
-- Oct. 10th: I went to an English evening. It was nice. Even though I was a bit scared at first, it was easy to speak with people, as everyone has a different English level and I realised my English level is not that bad. I met nice people, an American guy from SHAPE and a Korean girl who's in Mons for a year.
+* Occasionally, I look movies in English, recently I was old disney movies like "Snow white"
 
-- Oct. 22nd: I watched a documentary about abortion. Very serious topic and not fun at all but I learned a lot of interesting facts about abortion around the world.
+* Time to time, I look some series in English, for the moment I watch "Sherlock Holmes" on Netflix first because it's only in Enghish but also because I wanted to hear the real voice of the principal actor (Benedict Cumberbatch)
 
-- Oct. 27th: I started using Lyricstraining. This is soooo much fun. I love doing karaoke with my sister and we play together to guess the missing words. I love it!
-
-- Oct. 30th: I decided to change my device language into English. Now my smartphone, PS4 and Ipad are all configured in English.
-
-The bottom line is: have fun! It's a very important component when learning a new language.
-
+* I always listen to music in English, there isn't a single day that I don't listen to it. 
 

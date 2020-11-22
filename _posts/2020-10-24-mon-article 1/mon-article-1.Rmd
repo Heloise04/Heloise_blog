@@ -20,6 +20,11 @@ knitr::opts_chunk$set(echo = FALSE)
 This post is an analysis of Analysis of *The AI that spots Alzheimer's from cookie drawingt*
 [@2020AI]
 
+_Source of the article_ : BBC News
+_Word count_ : 607
+_URL_ : https://www.bbc.com/news/technology-54538228  
+
+
 ## Summary 
 
 The AI (artificial intelligence) can help to diagnose early the Alzheimer, about 7 years before the symptoms really appear. 

@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-27-introduction/",
+    "title": "Introduction",
+    "description": "Presentation of the thesis",
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-11-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-27T15:48:27+01:00"
+  },
+  {
     "path": "posts/2020-11-03-mon-article-2/",
     "title": "Article 2 : Tech Tent: Will better batteries persuade us to go electric?",
     "description": "A short description of the post.",

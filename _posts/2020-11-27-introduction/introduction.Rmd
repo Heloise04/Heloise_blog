@@ -1,0 +1,33 @@
+---
+title: "Introduction"
+description: | 
+  Presentation of the thesis
+  
+author:
+  - name: Plasman Héloïse
+    url: {http://Heloise04.github.io/Heloise_blog/}
+date: 11-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Introduction 
+In the English course and in collaboration with the SDD course given in the 2^nd Bachelor of Biology, we were asked to choose a scientific, mathematical or computer science theme that we like and to create a blog on it.
+
+In this context, I chose as my thesis "Humans and Technology, Is It a Good or a Bad Thing?".
+This topic seemed topical to me because we are in a society, an era where everything seems to go faster and faster, more and more computerized, where technology is omnipresent and seems impossible to live without. The question to be asked therefore is “How far technology can go and especially where is the limit between benefits and disadvantages or even danger?”.
+
+__*Because in the end what really is technology?*__
+
+According to the Larousse definition, technology is : *The study or the set of tools, machines, processes, knowledge and methods used in a certain technical field.* Which means that technology is found in all kinds of fields, in our everyday life and has effects at all levels of our lifestyle.
+
+This is why on this blog, I will try to cover various aspects of technology but I will not be doing all of them because this word takes in an immensity of fields of application.
+Here is a list of some fields of application that I would like to cover :
+
+* A hyper-connected world (WiFi, 5G, smartphones,...)
+* Artificial intelligence (AI)
+* nanotechnologies (which affect many more fields than one might think)
+* Always more feats in medicine and health
+* Everyday habits (batteries, electricity,...)
+* …

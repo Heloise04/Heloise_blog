@@ -30,4 +30,5 @@ Here is a list of some fields of application that I would like to cover :
 * nanotechnologies (which affect many more fields than one might think)
 * Always more feats in medicine and health
 * Everyday habits (batteries, electricity,...)
+* Environnement  
 * …

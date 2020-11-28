@@ -21,7 +21,9 @@ This post is an analysis of Analysis of *The AI that spots Alzheimer's from cook
 [@2020AI]
 
 _Source of the article_ : BBC News
+
 _Word count_ : 607
+
 _URL_ : https://www.bbc.com/news/technology-54538228  
 
 

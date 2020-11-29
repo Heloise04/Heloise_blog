@@ -5,7 +5,7 @@ description: |
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
-date: 11-03-2020
+date: 11-29-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -22,39 +22,48 @@ _Word count_ : 852
 _URL_ : https://www.bbc.com/news/technology-54574320 
 
 ## Summary 
-
+5G is above all a question of competition between the major smartphone industries and an evolution that will be imposed over the years to the entire population, as the norm. Because in the end, we mainly talk about 5G for its speed but after studies we see that this is the case only in certain countries (South Korea).
 
 ## Vocabulary: 
 
 | Words from the text 	| Synonym / explanation in English 	|
 |:-------------------:	|:--------------------------------:	|
-|||
-|||
-
+|embrace|to accept something enthusiastically|
+|towards|in the direction of, or closer to someone or something|
+|overhyped|to advertise or praise something more than it deserves in newspapers, on television, online, etc, in order to make people excited about it and want to buy, try it, invest in it, etc|
 
 ## Analysis table about the study
 
 
 #### *Researchers ?*
-
+* New research from OpenSignal
+* Marta Pinto, mobile device specialist at the research firm IDC
+* Professor Jasper Kim
+* Kenneth Adu-Amanfoh, from the Africa Cybersecurity and Digital Rights Organisation
+* Professor William Webb, a wireless technology consultant
 
 
 #### *Published in ? when (if mentioned) ?*
-
+BBC News
+16^th October 2020
 
 
 #### *General topic*
-
+5G
 
 
 #### *Procedure/ what was examined* 
+* collects data from mobile users all over the World
+
 
 
 
 #### *Conclusion / discovery* 
-
+5G is more develop, usefull in South Korea or Saudi Arabia
+5G is an evolution, rather than a revolution. 
+But mobile industry and governments have decided that it is vital to our prosperity and security, so you can expect to hear plenty more about it over the coming years.
 
 
 #### *Remaining questions*
-
+/
 

@@ -4,8 +4,10 @@ description: |
   A short description of the post.
 author:
   - name: Plasman Héloïse
-    url: {}
-date: 11-03-2020
+    url: {http://Heloise04.github.io/Heloise_blog/}
+date: 01-01-2021
+categories:
+  - "English for Science"
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +17,45 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+_Source of the article_ : 
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+_Word count_ : 
 
+_URL_ :  
+
+## Summary 
+
+
+
+## Vocabulary: 
+
+| Words from the text 	| Synonym / explanation in English 	|
+|:-------------------:	|:--------------------------------:	|
+|||
+|||
+
+
+## Analysis table about the study
+
+
+#### *Researchers ?*
+
+
+
+#### *Published in ? when (if mentioned) ?*
+
+
+
+#### *General topic*
+
+
+
+#### *Procedure/ what was examined* 
+
+
+
+#### *Conclusion / discovery* 
+
+
+
+#### *Remaining questions*

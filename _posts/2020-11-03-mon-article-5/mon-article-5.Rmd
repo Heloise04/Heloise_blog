@@ -5,7 +5,9 @@ description: |
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
-date: 11-03-2020
+date: 01-01-2021
+categories:
+  - "English for Science"
 output:
   distill::distill_article:
     self_contained: false
@@ -14,11 +16,15 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-_Source of the article_ : BBC News
-_Word count_ : 544
-_URL_ : https://www.bbc.com/news/science-environment-55099620  
+
+_Source of the article_ : 
+
+_Word count_ : 
+
+_URL_ :  
 
 ## Summary 
+
 
 
 ## Vocabulary: 
@@ -53,6 +59,5 @@ _URL_ : https://www.bbc.com/news/science-environment-55099620
 
 
 #### *Remaining questions*
-
 
 

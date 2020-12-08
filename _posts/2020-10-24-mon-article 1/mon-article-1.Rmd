@@ -8,6 +8,8 @@ author:
 date: 10-24-2020
 categories:
   - "English for Science"
+preview: "images/cookietheft.jpg"
+#draft: TRUE
 bibliography: AI_Alzheimer.bib
 output: 
   distill::distill_article:

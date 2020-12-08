@@ -12,9 +12,11 @@
       }
     ],
     "date": "2020-12-08",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-12-08T21:08:53+01:00"
+    "last_modified": "2020-12-08T21:22:51+01:00"
   },
   {
     "path": "posts/2020-11-03-mon-article-3/",
@@ -29,9 +31,30 @@
       }
     ],
     "date": "2020-11-29",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-12-08T18:33:02+01:00"
+    "last_modified": "2020-12-08T21:22:37+01:00"
+  },
+  {
+    "path": "posts/2020-11-03-mon-article-2/",
+    "title": "Article 2 : Tech Tent : Will better batteries persuade us to go electric?",
+    "description": "Improvement in batteries",
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-11-28",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-12-08T21:22:24+01:00"
   },
   {
     "path": "posts/2020-11-27-introduction/",
@@ -49,23 +72,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-11-28T14:47:02+01:00"
-  },
-  {
-    "path": "posts/2020-11-03-mon-article-2/",
-    "title": "Article 2 : Tech Tent : Will better batteries persuade us to go electric?",
-    "description": "Improvement in batteries",
-    "author": [
-      {
-        "name": "Plasman Héloïse",
-        "url": {
-          "http://Heloise04.github.io/Heloise_blog/": {}
-        }
-      }
-    ],
-    "date": "2020-11-22",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-11-28T15:48:39+01:00"
   },
   {
     "path": "posts/meal/",
@@ -164,9 +170,11 @@
       }
     ],
     "date": "2020-10-24",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-11-28T15:49:39+01:00"
+    "last_modified": "2020-12-08T21:21:56+01:00"
   },
   {
     "path": "posts/about/",

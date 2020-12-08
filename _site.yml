@@ -10,7 +10,7 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - text: "Introduction"
-      href: "posts/2020-11-27-introduction/introduction.html"
+      href: "posts/2020-11-27-introduction/index.html"
     - text: "Conclusion"
       href: "posts/2020-12-08-conclusion/index.html"
     - icon: fab fa-github

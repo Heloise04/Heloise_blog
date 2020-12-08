@@ -6,6 +6,8 @@ author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
 date: 12-08-2020
+categories:
+  - "English for Science"
 output:
   distill::distill_article:
     self_contained: false
@@ -15,11 +17,16 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 _Source of the article_ : BBC News
+
 _Word count_ : 836
+
 _URL_ : https://www.bbc.com/news/technology-55222499  
 
 ## Summary 
-
+In England, Commissioner Anne Longfield is fighting against encrypted messaging such as those offered by the soccial media Facebook. Because those are a danger for the children who use it and then talk to strangers and can be abused. In addition, the danger of this way of communicating is that it's a type of encrypted communication that means that you can't directly access to the conversation except if your are the sender or the receiver. That means that the police can't rapidly access to these informations when they would like to open an investigation.
+We should then penalize companies that don't want to collaborate with investigators.
+But it poses a problem if we talk about deleting encrypted messaging then it would be the privacy of everyone who would be in danger and there would be no more privacy.
+It will therefore be necessary to find a compromise between the two.
 
 ## Vocabulary: 
 
@@ -33,10 +40,7 @@ _URL_ : https://www.bbc.com/news/technology-55222499
 |aimed|to try or plan to achieve something|
 
 ## Analysis table about the study
-In England, Commissioner Anne Longfield is fighting against encrypted messaging such as those offered by the soccial media Facebook. Because those are a danger for the children who use it and then talk to strangers and can be abused. In addition, the danger of this way of communicating is that it's a type of encrypted communication that means that you can't directly access to the conversation except if your are the sender or the receiver. That means that the police can't rapidly access to these informations when they would like to open an investigation.
-We should then penalize companies that don't want to collaborate with investigators.
-But it poses a problem if we talk about deleting encrypted messaging then it would be the privacy of everyone who would be in danger and there would be no more privacy.
-It will therefore be necessary to find a compromise between the two.
+
 
 #### *Researchers ?*
 *Anne Longfield
@@ -46,7 +50,7 @@ It will therefore be necessary to find a compromise between the two.
 
 #### *Published in ? when (if mentioned) ?*
 BBC News
-8^th December 2020
+8th of December 2020
 
 
 #### *General topic*

@@ -6,6 +6,8 @@ author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
 date: 10-24-2020
+categories:
+  - "English for Science"
 bibliography: AI_Alzheimer.bib
 output: 
   distill::distill_article:
@@ -58,7 +60,7 @@ But the actual diagnosis will always be taken by the doctor and the AI will neve
 
 #### *Published in ? when (if mentioned) ?*
 The Lancet eClinicalMedicine journal 
-23th October 2020
+23th of October 2020
 
 
 #### *General topic*

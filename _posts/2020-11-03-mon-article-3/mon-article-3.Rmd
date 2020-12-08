@@ -6,6 +6,8 @@ author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
 date: 11-29-2020
+categories:
+  - "English for Science"
 output:
   distill::distill_article:
     self_contained: false
@@ -45,7 +47,7 @@ _URL_ : https://www.bbc.com/news/technology-54574320
 
 #### *Published in ? when (if mentioned) ?*
 BBC News
-16^th October 2020
+16th of October 2020
 
 
 #### *General topic*

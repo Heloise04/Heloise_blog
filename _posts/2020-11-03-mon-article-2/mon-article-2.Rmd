@@ -6,6 +6,8 @@ author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
 date: 11-28-2020
+categories:
+  - "English for Science"
 preview: 
 output:
   distill::distill_article:
@@ -51,7 +53,7 @@ In addition, thanks to these progresses, we are trying to provide electricity to
 
 #### *Published in ? when (if mentioned) ?*
 BBC News
-20^th Novembre 2020
+20th of Novembre 2020
 
 
 #### *General topic*

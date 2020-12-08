@@ -8,7 +8,7 @@ author:
     url: {http://Heloise04.github.io/Heloise_blog/}
 date: 11-10-2020
 categories:
-  - "SSD"
+  - "SDD"
 output:
   distill::distill_article:
     self_contained: false

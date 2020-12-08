@@ -113,8 +113,8 @@
   },
   {
     "path": "posts/2020-11-03-mon-article-3/",
-    "title": "Article 3 : Tech Tent: Who needs 5G ?",
-    "description": "A short description of the post.",
+    "title": "Article 3 : Tech Tent : Who needs 5G ?",
+    "description": "talking about 5G",
     "author": [
       {
         "name": "Plasman Héloïse",
@@ -128,7 +128,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-08T21:22:37+01:00"
+    "last_modified": "2020-12-08T22:42:39+01:00"
   },
   {
     "path": "posts/2020-11-03-mon-article-2/",

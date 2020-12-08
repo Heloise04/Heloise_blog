@@ -1,5 +1,5 @@
 ---
-title: "Article 3 : Tech Tent: Who needs 5G?"
+title: "Article 3 : Tech Tent: Who needs 5G ?"
 description: |
   A short description of the post.
 author:
@@ -53,7 +53,7 @@ BBC News
 
 
 #### *Procedure/ what was examined* 
-* collects data from mobile users all over the World
+collects data from mobile users all over the World
 
 
 

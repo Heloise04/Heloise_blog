@@ -1,11 +1,11 @@
 ---
-title: "Article 4 :"
+title: "Article 4 : Encrypted messaging puts children at risk, commissioner warns"
 description: |
-  A short description of the post.
+  The danger of encrypted messaging for kids
 author:
   - name: Plasman Héloïse
-    url: {}
-date: 11-29-2020
+    url: {http://Heloise04.github.io/Heloise_blog/}
+date: 12-08-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -15,8 +15,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 _Source of the article_ : BBC News
-_Word count_ : 544
-_URL_ : https://www.bbc.com/news/science-environment-55099620  
+_Word count_ : 836
+_URL_ : https://www.bbc.com/news/technology-55222499  
 
 ## Summary 
 
@@ -25,34 +25,47 @@ _URL_ : https://www.bbc.com/news/science-environment-55099620
 
 | Words from the text 	| Synonym / explanation in English 	|
 |:-------------------:	|:--------------------------------:	|
-|||
-|||
-
+|encryption|the act of putting information into a special code, especially in order to prevent people from looking at it without authority|
+|grooming|the process in which an adult develops a friendship with a child, particularly through the internet, with the intention of having an illegal sexual relationship|
+|launched|start an activity, especially an organized one|
+|breach| a failure to do something that must be done by law|
+|cynical|believing that people only do things to help themselves rather than for good or honest reasons|
+|aimed|to try or plan to achieve something|
 
 ## Analysis table about the study
-
+In England, Commissioner Anne Longfield is fighting against encrypted messaging such as those offered by the soccial media Facebook. Because those are a danger for the children who use it and then talk to strangers and can be abused. In addition, the danger of this way of communicating is that it's a type of encrypted communication that means that you can't directly access to the conversation except if your are the sender or the receiver. That means that the police can't rapidly access to these informations when they would like to open an investigation.
+We should then penalize companies that don't want to collaborate with investigators.
+But it poses a problem if we talk about deleting encrypted messaging then it would be the privacy of everyone who would be in danger and there would be no more privacy.
+It will therefore be necessary to find a compromise between the two.
 
 #### *Researchers ?*
-
-
+*Anne Longfield
+*A spokesman for the Department for Digital, Culture, Media and Sport
+*Rory cella-Jones, technology correspondent
+*Digital rights organisations : The Open Rights Group and The Electronic Frontier Foundation
 
 #### *Published in ? when (if mentioned) ?*
-
+BBC News
+8^th December 2020
 
 
 #### *General topic*
-
+The danger of encrypted messaging for kids but also the need of it to keep our privacy.
 
 
 #### *Procedure/ what was examined* 
-
-
+*The commissioner examinates the danger encrypted messaging in child abusing.
+*Differents aspects of the encrypted messaging
+*The implication of big tech firms like Facebook 
+*Question of fines or penalities 
 
 #### *Conclusion / discovery* 
-
-
+We need to find a compromise beetween the safety of our children and our pravicy. 
+Big tech firms have to pay for and have the resposability of these encrypted messaging.
+Big tech firm like WhatsApp bans around 250,000 accounts each month suspected of sharing child exploitative imagery.
 
 #### *Remaining questions*
-
+What is the limits beetween our safety and our pravicy ? 
+When digital rights organisations will agree ? 
 
 

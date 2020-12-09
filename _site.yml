@@ -10,9 +10,9 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - text: "Introduction"
-      href: "posts/2020-11-27-introduction/index.html"
+      href: "posts/introduction/index.html"
     - text: "Conclusion"
-      href: "posts/2020-12-08-conclusion/index.html"
+      href: "posts/conclusion/index.html"
     - icon: fab fa-github
       href: https://github.com/Heloise04/Heloise_blog
 base_url: http://Heloise04.github.io/Heloise_blog/

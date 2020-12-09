@@ -1,62 +1,5 @@
 [
   {
-    "path": "posts/2020-11-03-mon-article-5/",
-    "title": "Article 5",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Plasman Héloïse",
-        "url": {
-          "http://Heloise04.github.io/Heloise_blog/": {}
-        }
-      }
-    ],
-    "date": "2021-01-01",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-08T21:30:47+01:00"
-  },
-  {
-    "path": "posts/2020-11-03-mon-article-6/",
-    "title": "Article 6",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Plasman Héloïse",
-        "url": {
-          "http://Heloise04.github.io/Heloise_blog/": {}
-        }
-      }
-    ],
-    "date": "2021-01-01",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-08T21:30:51+01:00"
-  },
-  {
-    "path": "posts/2020-11-03-mon-article-7/",
-    "title": "Article 7",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Plasman Héloïse",
-        "url": {
-          "http://Heloise04.github.io/Heloise_blog/": {}
-        }
-      }
-    ],
-    "date": "2021-01-01",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-08T21:31:48+01:00"
-  },
-  {
     "path": "posts/conclusion/",
     "title": "Conclusion",
     "description": "End and conclusion of my work.",
@@ -76,9 +19,9 @@
     "last_modified": "2020-12-08T21:36:47+01:00"
   },
   {
-    "path": "posts/2020-11-03-mon-article-4/",
-    "title": "Article 4 : Encrypted messaging puts children at risk, commissioner warns",
-    "description": "The danger of encrypted messaging for kids",
+    "path": "posts/mon-article5/",
+    "title": "Article 5",
+    "description": "A short description of the post.",
     "author": [
       {
         "name": "Plasman Héloïse",
@@ -87,12 +30,50 @@
         }
       }
     ],
-    "date": "2020-12-08",
+    "date": "2021-01-01",
     "categories": [
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-08T21:30:42+01:00"
+    "last_modified": "2020-12-08T21:30:47+01:00"
+  },
+  {
+    "path": "posts/mon-article6/",
+    "title": "Article 6",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-12-08T21:30:51+01:00"
+  },
+  {
+    "path": "posts/mon-article7/",
+    "title": "Article 7",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-12-08T21:31:48+01:00"
   },
   {
     "path": "posts/meal/",
@@ -112,7 +93,26 @@
     "last_modified": "2020-12-08T22:38:15+01:00"
   },
   {
-    "path": "posts/2020-11-03-mon-article-3/",
+    "path": "posts/mon-article4/",
+    "title": "Article 4 : Encrypted messaging puts children at risk, commissioner warns",
+    "description": "The danger of encrypted messaging for kids",
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-12-08",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-12-08T21:30:42+01:00"
+  },
+  {
+    "path": "posts/mon-article3/",
     "title": "Article 3 : Tech Tent : Who needs 5G ?",
     "description": "talking about 5G",
     "author": [
@@ -131,7 +131,7 @@
     "last_modified": "2020-12-08T22:42:39+01:00"
   },
   {
-    "path": "posts/2020-11-03-mon-article-2/",
+    "path": "posts/mon-article2/",
     "title": "Article 2 : Tech Tent : Will better batteries persuade us to go electric?",
     "description": "Improvement in batteries",
     "author": [
@@ -147,7 +147,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-09T12:08:48+01:00"
+    "last_modified": "2020-12-09T12:08:49+01:00"
   },
   {
     "path": "posts/introduction/",
@@ -188,7 +188,7 @@
     "preview_height": 768
   },
   {
-    "path": "posts/2020-10-24-mon-article 1/",
+    "path": "posts/mon-article1/",
     "title": "Article 1 : The AI that spots Alzheimer's from cookie drawing",
     "description": "Analyse of how the AI can help diagnose Alzheimer.",
     "author": [
@@ -203,7 +203,7 @@
     "categories": [
       "English for Science"
     ],
-    "preview": "posts/2020-10-24-mon-article 1/images/cookietheft.jpg",
+    "preview": "posts/mon-article1/images/cookietheft.jpg",
     "last_modified": "2020-12-08T22:31:24+01:00"
   },
   {

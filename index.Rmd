@@ -1,7 +1,20 @@
 ---
 title: "Humans and Technology, Is It a Good or a Bad Thing ?"
 site: distill::distill_website
-listing: posts
+listing: 
+  posts:
+  - introduction
+  - mon-article1
+  - mon-article2
+  - mon-article3
+  - mon-article4
+  - mon-article5
+  - mon-article6
+  - mon-article7
+  - conclusion
+  - about
+  - meal
+  - 2020-11-10-graphicdescription 
 ---
 
 ```{r, echo = FALSE, eval = FALSE}

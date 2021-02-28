@@ -162,9 +162,11 @@
       }
     ],
     "date": "2020-11-27",
-    "categories": [],
+    "categories": [
+      "English for Science"
+    ],
     "preview": {},
-    "last_modified": "2020-11-28T14:47:02+01:00"
+    "last_modified": "2021-02-28T18:25:34+01:00"
   },
   {
     "path": "posts/2020-11-10-graphicdescription/",

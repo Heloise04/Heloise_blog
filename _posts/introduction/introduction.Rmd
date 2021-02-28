@@ -15,7 +15,7 @@ output:
 ---
 
 # Introduction 
-In the English course and in collaboration with the SDD course given in the 2^nd Bachelor of Biology, we were asked to choose a scientific, mathematical or computer science theme that we like and to create a blog on it.
+In the English course and in collaboration with the SDD course given in the 2nd Bachelor of Biology, we were asked to choose a scientific, mathematical or computer science theme that we like and to create a blog on it.
 
 In this context, I chose as my thesis "Humans and Technology, Is It a Good or a Bad Thing?".
 This topic seemed topical to me because we are in a society, an era where everything seems to go faster and faster, more and more computerized, where technology is omnipresent and seems impossible to live without. The question to be asked therefore is “How far technology can go and especially where is the limit between benefits and disadvantages or even danger?”.

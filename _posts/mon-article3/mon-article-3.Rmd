@@ -24,15 +24,15 @@ _Word count_ : 852
 _URL_ : https://www.bbc.com/news/technology-54574320 
 
 ## Summary 
-5G is above all a question of competition between the major smartphone industries and an evolution that will be imposed over the years to the entire population, as the norm. Because in the end, we mainly talk about 5G for its speed but after studies we see that this is the case only in certain countries (South Korea).
+5G is above all a question of competition between the major smartphone industries and an evolution that will be imposed over the years to the entire population, as the norm. Because in the end, we mainly talk about 5G for its speed but after studies we see that this is the case only in certain countries (South Korea). 
 
 ## Vocabulary: 
 
-| Words from the text 	| Synonym / explanation in English 	|
-|:-------------------:	|:--------------------------------:	|
-|embrace|to accept something enthusiastically|
-|towards|in the direction of, or closer to someone or something|
-|overhyped|to advertise or praise something more than it deserves in newspapers, on television, online, etc, in order to make people excited about it and want to buy, try it, invest in it, etc|
+| Words from the text 	| Synonym / explanation in English 	| French translation |
+|:-------------------:	|:--------------------------------:	|:----------------:	|
+|embrace|To accept something enthusiastically| embrasser, adopter | 
+|towards|In the direction of, or closer to someone or something| envers |
+|overhyped|To advertise or praise something more than it deserves in newspapers, on television, online, …, in order to make people excited about it and want to buy, try it, invest in it,…| surpassé |
 
 ## Analysis table about the study
 
@@ -61,7 +61,7 @@ collects data from mobile users all over the World
 
 
 #### *Conclusion / discovery* 
-5G is more develop, usefull in South Korea or Saudi Arabia
+5G is more develop, useful in South Korea or Saudi Arabia
 5G is an evolution, rather than a revolution. 
 But mobile industry and governments have decided that it is vital to our prosperity and security, so you can expect to hear plenty more about it over the coming years.
 

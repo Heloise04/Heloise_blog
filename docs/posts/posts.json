@@ -20,8 +20,8 @@
   },
   {
     "path": "posts/mon-article5/",
-    "title": "Article 5",
-    "description": "A short description of the post.",
+    "title": "Article 5 : Technology In Our Life Today And How It Has Changed",
+    "description": {},
     "author": [
       {
         "name": "Plasman Héloïse",
@@ -35,7 +35,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-08T21:30:47+01:00"
+    "last_modified": "2021-03-04T22:38:55+01:00"
   },
   {
     "path": "posts/mon-article6/",

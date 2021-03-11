@@ -29,17 +29,18 @@ _URL_ : https://www.bbc.com/news/technology-55016147
 In this article, we talk about the fact that we are going to improve batteries more and more so that they are better, safer, lighter, charge faster, store more,...
 
 This improvement will make it possible to see electric motorization in a different way, even if we have to keep in mind to really have an ecological impact, it's our whole way of life that must be changed : keep the car for short trips and take other types of transport for the longest ones and even if there are no or less emissions during the use, the production, it generally produces much more emissions.
+
 In addition, thanks to these progresses, we are trying to provide electricity to rural Kenya using renewable energies.
 
 
 ## Vocabulary: 
 
-| Words from the text 	| Synonym / explanation in English 	|
-|:-------------------:	|:--------------------------------:	|
-|tampering|the action of touching or making changes to something that you should not, usually when you are trying to damage it or do something illegal. In this contest = change|
-|leap|to achieve something suddenly, usually fame, power, or importance|
-|renewable energy|energy that is produced using the sun, wind, etc., or from crops, rather than using fuels such as oil or coal|
-|grid|a system of wires through which electricity is connected to different power stations across a region|
+| Words from the text 	| Synonym / explanation in English 	| French translation|
+|:-------------------:	|:--------------------------------:	|:----------------:	|
+|tampering|The action of touching or making changes to something that you should not, usually when you are trying to damage it or do something illegal. In this contest = change|falsification|
+|leap|To achieve something suddenly, usually fame, power, or importance|saut, bond|
+|renewable energy|Energy that is produced using the sun, wind, etc., or from crops, rather than using fuels such as oil or coal|énergie renouvelable|
+|grid|A system of wires through which electricity is connected to different power stations across a region|grille, réseau|
 
 
 ## Analysis table about the study

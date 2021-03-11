@@ -23,21 +23,18 @@ _Word count_ : 836
 _URL_ : https://www.bbc.com/news/technology-55222499  
 
 ## Summary 
-In England, Commissioner Anne Longfield is fighting against encrypted messaging such as those offered by the soccial media Facebook. Because those are a danger for the children who use it and then talk to strangers and can be abused. In addition, the danger of this way of communicating is that it's a type of encrypted communication that means that you can't directly access to the conversation except if your are the sender or the receiver. That means that the police can't rapidly access to these informations when they would like to open an investigation.
-We should then penalize companies that don't want to collaborate with investigators.
-But it poses a problem if we talk about deleting encrypted messaging then it would be the privacy of everyone who would be in danger and there would be no more privacy.
-It will therefore be necessary to find a compromise between the two.
+In England, Commissioner Anne Longfield is fighting against encrypted messaging such as those offered by the social media Facebook. Because those are a danger for the children who use it and then talk to strangers and can be abused. In addition, the danger of this way of communicating is that it’s a type of encrypted communication that means that you can’t directly access to the conversation except if you are the sender or the receiver. That means that the police can’t rapidly access to this information when they would like to open an investigation. We should then penalize companies that don’t want to collaborate with investigators. But it poses a problem if we talk about deleting encrypted messaging then it would be the privacy of everyone who would be in danger and there would be no more privacy. It will therefore be necessary to find a compromise between the two. 
 
 ## Vocabulary: 
 
-| Words from the text 	| Synonym / explanation in English 	|
-|:-------------------:	|:--------------------------------:	|
-|encryption|the act of putting information into a special code, especially in order to prevent people from looking at it without authority|
-|grooming|the process in which an adult develops a friendship with a child, particularly through the internet, with the intention of having an illegal sexual relationship|
-|launched|start an activity, especially an organized one|
-|breach| a failure to do something that must be done by law|
-|cynical|believing that people only do things to help themselves rather than for good or honest reasons|
-|aimed|to try or plan to achieve something|
+| Words from the text 	| Synonym / explanation in English 	| French translation |
+|:-------------------:	|:--------------------------------:	|:----------------:	|
+|encryption|The act of putting information into a special code, especially in order to prevent people from looking at it without authority| chiffrement |
+|grooming|The process in which an adult develops a friendship with a child, particularly through the internet, with the intention of having an illegal sexual relationship| exploitation sexuelle |
+|launched|Start an activity, especially an organized one| lancé |
+|breach|A failure to do something that must be done by law| enfreindre |
+|cynical|Believing that people only do things to help themselves rather than for good or honest reasons| cynique |
+|aimed|To try or plan to achieve something| visé |
 
 ## Analysis table about the study
 
@@ -45,7 +42,7 @@ It will therefore be necessary to find a compromise between the two.
 #### *Researchers ?*
 *Anne Longfield
 *A spokesman for the Department for Digital, Culture, Media and Sport
-*Rory cella-Jones, technology correspondent
+*Rory Cellan-Jones, technology correspondent
 *Digital rights organisations : The Open Rights Group and The Electronic Frontier Foundation
 
 #### *Published in ? when (if mentioned) ?*

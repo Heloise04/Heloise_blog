@@ -1,11 +1,12 @@
 ---
-title: "Article 5"
+title: "Article 5 : Technology In Our Life Today And How It Has Changed"
 description: |
-  A short description of the post.
+  How thechnology change our life ?
+  
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
-date: 01-01-2021
+date: 03-08-2021
 categories:
   - "English for Science"
 output:
@@ -17,22 +18,25 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-_Source of the article_ : 
+_Source of the article_ : Aging In Place
 
-_Word count_ : 
+_Word count_ : first 590 *(4895 in total)*
 
-_URL_ :  
+_URL_ : https://aginginplace.org/technology-in-our-life-today-and-how-it-has-changed/ 
 
 ## Summary 
 
+Over the years, technology has revolutionized our world and daily lives. It makes them easier. Technology is everywhere, we need to adapt but is has created amazing tools and resources, putting useful information at our fingertips.
+It can really help seniors to stay active even if they get older. 
+And there is no denying that the future of technology will continue to revolutionize our lives.
 
 
 ## Vocabulary: 
 
-| Words from the text 	| Synonym / explanation in English 	|
-|:-------------------:	|:--------------------------------:	|
-|||
-|||
+| Words from the text 	| Synonym / explanation in English 	| French translation |
+|:-------------------:	|:--------------------------------:	|:----------------:	|
+|overwhelming|Very great or very strong; so powerful that you cannot resist it or decide how to react|accablant, écrasant, irrésistible|
+|statement|Something that you say or write that gives information or an opinion|déclaration|
 
 
 ## Analysis table about the study
@@ -40,24 +44,37 @@ _URL_ :
 
 #### *Researchers ?*
 
-
+/
 
 #### *Published in ? when (if mentioned) ?*
 
-
+AgingInPlace, update in March 2021
 
 #### *General topic*
 
-
+How technology has impacted senior’s lives in and out of the home how it impacts in general ?
 
 #### *Procedure/ what was examined* 
 
+How technology has changed, how we : 
+-	communicate
+-	pay bills and transfer money
+-	watch TV
+-	date
+-	live in and outside of our homes
+-	stay safe
+How technology continues to change
 
 
 #### *Conclusion / discovery* 
 
+Keep in touch it’s easier
+Safety is better (home security)
+Medical advancement
+Stay active
+Not intuitive
 
 
 #### *Remaining questions*
 
-
+Many changes in the future thank to technology

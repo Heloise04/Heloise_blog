@@ -1,11 +1,11 @@
 ---
-title: "Article 6"
+title: "Article 6 : "
 description: |
   A short description of the post.
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
-date: 01-01-2021
+date: 03-11-2021
 categories:
   - "English for Science"
 output:
@@ -17,22 +17,29 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-_Source of the article_ : 
+_Source of the article_ : Medical News Today 
 
-_Word count_ : 
+_Word count_ : 1327
 
-_URL_ :  
+_URL_ : https://www.medicalnewstoday.com/articles/negative-effects-of-technology#in-children  
 
 ## Summary 
 
-
+Even if technology have good aspect, it has also a lot of negative effect if it is overused. 
+Indeed, it has psychological effects such as isolation, depression and anxiety. It has also physical effects such as eyestrain, incorrect posture, sleep issues and we become more and more sedentary because of it. It’s an issue for obesity, cardiovascular disease, diabetes and premature death. 
+Finally, it can cause problems for the development of children and teenagers in various ways. 
 
 ## Vocabulary: 
 
-| Words from the text 	| Synonym / explanation in English 	|
-|:-------------------:	|:--------------------------------:	|
-|||
-|||
+| Words from the text 	| Synonym / explanation in English 	| French translation |
+|:-------------------:	|:--------------------------------:	|:----------------:	|
+|overuse|The act of using something too much or too often|trop utiliser|
+|prone|Likely to suffer from something or to do something bad|enclin à, sujet à|
+|(screen) glare|Glare (at somebody/something) to look at somebody/something in an angry way|écran éblouissant, “agressif”|
+|underlying (vision issues)|Important in a situation but not always easily noticed or stated clearly|problèmes de vision sous-jacents|
+|likelihood|The chance of something happening; how likely something is to happen|probabilité|
+|hunched|Bending the top part of your body forward and raising your shoulders and back|courbé, voûter|
+|healthful|Good for your health|salubre, en bonne santé|
 
 
 ## Analysis table about the study
@@ -40,24 +47,32 @@ _URL_ :
 
 #### *Researchers ?*
 
-
+Many researchers depending on the different studies
 
 #### *Published in ? when (if mentioned) ?*
 
-
+* Medical News Today (25th of February 2020)
+* AJPM = Americain Journal of Preventive Medecine (2017)
+* PCM = US National Library of Medecin/ National institutes of Health (23th of November 2016)
+* Applied Ergonomics (2016)
+* European Spine Journal (6th of January 2018)
+* PNAS = Proceedings of the National Academy of Sciences of the United States of America (27th of January 2015)
+* BCM (11th of August 2017)
+* Turkish Green Crescent Society (Autumn 2018)
+* JAMA Network (17th of July 2018)
 
 #### *General topic*
 
-
+Negative effects of technology and what to know to don’t have them
 
 #### *Procedure/ what was examined* 
 
-
+Psychological and physical issues and the impact on children
 
 #### *Conclusion / discovery* 
 
-
+Technology may have made positives changes but also have negative effects
 
 #### *Remaining questions*
 
-
+What the association between digital media use and ADHD are really ? 

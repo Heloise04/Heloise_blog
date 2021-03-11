@@ -1,7 +1,7 @@
 ---
-title: "Article 6 : "
+title: "Article 6 : Negative effects of technology : What to know"
 description: |
-  A short description of the post.
+  The negative aspect of technology on psychological and physical issues and on the development of children.
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}

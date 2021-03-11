@@ -1,5 +1,5 @@
 ---
-title: "Portefolio 2"
+title: "Portfolio 2 : "
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}

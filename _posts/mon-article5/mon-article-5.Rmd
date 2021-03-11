@@ -1,11 +1,11 @@
 ---
-title: "Article 5 : Technology In Our Life Today And How It Has Changed"
+title: "Article 5 : Technology In Our Life Today And How It Has changed"
 description: |
   How technology change our life ?
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
-date: 03-08-2021
+date: 03-08-2020
 categories:
   - "English for Science"
 output:

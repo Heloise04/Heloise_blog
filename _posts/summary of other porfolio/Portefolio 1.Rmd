@@ -1,6 +1,16 @@
 ---
-title: "Portefolio 1"
-author: "sv"
-date: "04/03/2021"
-output: html_document
+title: "Portfolio 1 : "
+author:
+  - name: Plasman Héloïse
+    url: {http://Heloise04.github.io/Heloise_blog/}
+date: 01-01-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

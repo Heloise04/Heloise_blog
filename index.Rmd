@@ -12,7 +12,8 @@ listing:
   - mon-article6
   - mon-article7
   - conclusion
-  - summary of other portfolio
+  - portfolio1 
+  - portfolio2
   - about
   - meal
   - 2020-11-10-graphicdescription 

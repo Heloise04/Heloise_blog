@@ -74,7 +74,7 @@
     "last_modified": "2021-03-11T22:50:49+01:00"
   },
   {
-    "path": "posts/summary of other portfolio/",
+    "path": "posts/portfolio1/",
     "title": "Portfolio 1 : ",
     "description": {},
     "author": [
@@ -90,7 +90,26 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2021-03-11T22:52:53+01:00"
+    "last_modified": "2021-03-11T23:04:43+01:00"
+  },
+  {
+    "path": "posts/portfolio2/",
+    "title": "Portefolio 2",
+    "description": {},
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-03-11T23:05:14+01:00"
   },
   {
     "path": "posts/mon-article4/",

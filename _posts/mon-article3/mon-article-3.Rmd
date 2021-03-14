@@ -8,6 +8,7 @@ author:
 date: 11-29-2020
 categories:
   - "English for Science"
+  - "Articles"
 output:
   distill::distill_article:
     self_contained: false

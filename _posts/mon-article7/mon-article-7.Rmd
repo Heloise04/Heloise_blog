@@ -1,11 +1,11 @@
 ---
-title: "Article 7"
+title: "Article 7 : 10 Ways Technology Is Changing Healthcare"
 description: |
-  A short description of the post.
+  Presentation of 10 ways technology has changed healthcare
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
-date: 01-01-2021
+date: 03-14-2021
 categories:
   - "English for Science"
 output:
@@ -17,45 +17,91 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-_Source of the article_ : 
+_Source of the article_ : The Medical Futurist
 
-_Word count_ : 
+_Word count_ : 2531
 
-_URL_ :  
+_URL_ : https://medicalfuturist.com/ten-ways-technology-changing-healthcare/#
 
 ## Summary 
-
+The future of healthcare is shaping with advances in digital healthcare technologies, such as artificial intelligence, VR/AR, 3D-printing, robotics or nanotechnology ans many others. We have to familiarize with them and not be afraid of them because there are just there to help us, to improve our medicine and there will have zero problem if we control them. 
 
 
 ## Vocabulary: 
 
-| Words from the text 	| Synonym / explanation in English 	|
-|:-------------------:	|:--------------------------------:	|
-|||
-|||
+| Words from the text 	| Synonym / explanation in English 	| French translation |
+|:-------------------:	|:--------------------------------:	|:----------------:	|
+|dystopias|||
+|betterment|||
+|root|||
+|disrupting|||
+|wielded|||
+|counterparts|||
+|soothing|||
+|albeit|||
+|depictions|||
+|remotely|||
+|almighty|||
+|figment|||
+|yoked|||
+|leveraging|||
+|wound|||
 
 
 ## Analysis table about the study
 
-
 #### *Researchers ?*
 
-
+* Atomwise 
+*Google’s DeepMind
+* Osso VR
+* Immersive Touch
+* Case Western Reserve University
+* Magic Leap
+* SyncThink
+* XRHealth
+* Brainlab
+* MedWand
+* BioIntelliSense
+* Illumine 
+* Habit 
+* Turbine
+* Recursion Pharmaceuticals
+* Deep Genomics
+* Virtual Physiological Human Institute
+* Max Planck Institute
+* MIT researchers
+* Grapheal 
+* Rensselaer Polytechnic Institute in Troy, New York
+* NGO : Rufugee Open Ware and Not impossible
 
 #### *Published in ? when (if mentioned) ?*
 
+The Medical Futurist
+3rd of March 2020
 
 
 #### *General topic*
 
-
+Application of technology in medicine and in healthcare in general
 
 #### *Procedure/ what was examined* 
 
-
+* Artificial intelligence
+* Virtual reality
+* Augmented reality
+* Healthcare trackers, wearables and sensors
+* Medical tricorder
+* Genome sequencing
+* Revolutionizing drug development 
+* Nanotechnology
+* Robotics
+* 3D-printing
 
 #### *Conclusion / discovery* 
 
-
+Don’t’ be scared by technology, it has a lot of really good application and will help improve our medicine. 
 
 #### *Remaining questions*
+
+/

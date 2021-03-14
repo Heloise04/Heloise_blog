@@ -1,0 +1,17 @@
+---
+title: "Portfolio 2 : "
+author:
+  - name: Plasman Héloïse
+    url: {http://Heloise04.github.io/Heloise_blog/}
+date: 03-24-2021
+categories:
+  - "English for Science"
+  - "Other porfolio"
+output: 
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

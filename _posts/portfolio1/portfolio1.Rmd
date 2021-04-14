@@ -1,5 +1,5 @@
 ---
-title: "Portfolio 1 : "
+title: "Portfolio 1 : Matteo Spagnolo : Quantum physics in general"
 author:
   - name: Plasman Héloïse
     url: {http://Heloise04.github.io/Heloise_blog/}
@@ -12,6 +12,29 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+I have chosen to summarise the portfolio of Matteo Spagnolo which talks about quantum physics in general. He is from group 6 and in Physics. I pick up his portfolio because I think quantum physics will, soon or maybe in the decades to come, become something usual and more and more used. I hear more and more articles, people, on television about this “new physics”. In fact, it isn’t a new “thing” but we understand it more nowadays. It could make us progress in some fields, and we could discover new things that weren’t within our reach before this technology was developed.
+
+With what I read and understood with my very poor knowledge of quantum physics, it seems that his articles are talking about all the new advances that can be made with quantum physics to improve the tools that we already have.
+His first article talks about a theory where we could mix relativity and quantum physics to measure two different times with a quantum clock to create Schrödinger’s clock. 
+
+Note : Erwin Schrödinger is a scientist and is the father of quantum physics. He exposes several times the principle of duality; something can be in two different states at the same time, it is the basis of quantum physics : 
+•	1 and 0
+•	wave and particle (light)
+•	intact and disintegrated (cat of Schrödinger) 
+
+and the article seems to go in the same way, when they say that they want to measure 2 different times. 
+
+The second article talks about the fact that if we can control the shape of light with ultracold atoms because these have a very low speed we could improve the actual quantum memory storage devices.
+
+Then in another article, they say that they want to create qubits that can tolerate a few broken electron pairs without losing their coherence to make them less sensitive to cosmic radiation and to improve them for devices that use radiation detectors. 
+
+The 4th article talks about the fifth state of matter which is the Bose-Einstein condensates and if we can understand it completely we could make superconducting materials.
+
+The 5th deals with a topic already covered such as mixing the relativity and quantum physics and the Bose-Einstein condensates to better understand how our Univers works. 
+
+The 6th concludes that Galileo’s principle is true for microscopic and macroscopical objects but need to make more precise experiments to be sure.
+
+The last one discusses “quasiparticles” and wants to prove that they exist because they could potentially improve conductors. 
+
+
+

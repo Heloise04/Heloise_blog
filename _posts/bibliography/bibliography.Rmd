@@ -1,0 +1,33 @@
+---
+title: "Bibliography"
+author:
+  - name: Plasman Héloïse
+    url: {http://Heloise04.github.io/Heloise_blog/}
+date: 01-01-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Bibliography
+
+•	“technologie”, LAROUSSE, [on line], https://www.larousse.fr/dictionnaires/francais/technologie/76961, [consulted on the 24th of October 2020]
+
+•	Jane Wakefield, “The AI that spots Alzheimer's from cookie drawing”, BBC news, [on line], https://www.bbc.com/news/technology-54538228, [consulted on the 24th of October 2020].
+
+•	Rory Cellan-Jones, “Tech Tent: Will better batteries persuade us to go electric?”, BBC news, [on line], https://www.bbc.com/news/technology-55016147, [consulted on the 28th of November 2020].
+
+•	Rory Cellan-Jones, “Tech Tent: Xho needs 5G?”, BBC news, [on line], https://www.bbc.com/news/technology-54574320, [consulted on the 29th of November 2020].
+
+•	Rory Cellan-Jones, “Encrypted messaging puts children at risk, commissioner warns”, BBC news, [on line], https://www.bbc.com/news/technology-55222499, [consulted on the 8th of December 2020].
+
+•	“Technology In Our Life Today And How It Has Changed”, AgingInPlace, [on line], https://aginginplace.org/technology-in-our-life-today-and-how-it-has-changed/, [consulted on the 8th of March 2021].
+
+•	Medically reviewed by Timothy J. Legg, Ph.D., CRNP — Written by Jon Johnson, “Negative effects of technology: What to know”, MedicalNewsToday, [on line], https://www.medicalnewstoday.com/articles/negative-effects-of-technology, [consulted on the 11th of March 2021].
+
+•	“10 Ways Technology Is Changing Healthcare”, The Medical Futurist, [on line], https://medicalfuturist.com/ten-ways-technology-changing-healthcare/#, [consulted on the 14th of March 2021].
+
+•	Oxford Learner’s Dictonaries, [on ligne], https://www.oxfordlearnersdictionaries.com/ 
+

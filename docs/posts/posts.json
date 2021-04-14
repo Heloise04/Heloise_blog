@@ -1,23 +1,20 @@
 [
   {
-    "path": "posts/portfolio1/",
-    "title": "Portfolio 1 : ",
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
     "description": {},
     "author": [
       {
         "name": "Plasman Héloïse",
-        "url": {
-          "http://Heloise04.github.io/Heloise_blog/": {}
-        }
+        "url": {}
       }
     ],
-    "date": "2021-03-24",
+    "date": "2021-04-14",
     "categories": [
-      "English for Science",
-      "Other porfolio"
+      "English for Science"
     ],
     "preview": {},
-    "last_modified": "2021-03-14T22:54:08+01:00"
+    "last_modified": "2021-04-14T21:52:00+02:00"
   },
   {
     "path": "posts/portfolio2/",
@@ -40,6 +37,26 @@
     "last_modified": "2021-03-14T22:49:18+01:00"
   },
   {
+    "path": "posts/portfolio1/",
+    "title": "Portfolio 1 : Matteo Spagnolo : Quantum physics in general",
+    "description": {},
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-03-24",
+    "categories": [
+      "English for Science",
+      "Other porfolio"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-14T22:03:48+02:00"
+  },
+  {
     "path": "posts/mon-article7/",
     "title": "Article 7 : 10 Ways Technology Is Changing Healthcare",
     "description": "Presentation of 10 ways technology has changed healthcare",
@@ -57,24 +74,7 @@
       "Articles"
     ],
     "preview": {},
-    "last_modified": "2021-03-14T23:03:59+01:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "Plasman Héloïse",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-11",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2021-03-11T22:48:33+01:00"
+    "last_modified": "2021-04-14T21:57:06+02:00"
   },
   {
     "path": "posts/mon-article6/",
@@ -113,7 +113,26 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2021-03-11T22:49:25+01:00"
+    "last_modified": "2021-04-14T21:57:49+02:00"
+  },
+  {
+    "path": "posts/bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-14T22:01:45+02:00"
   },
   {
     "path": "posts/mon-article4/",
@@ -192,7 +211,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2021-03-11T22:49:32+01:00"
+    "last_modified": "2021-04-14T21:47:27+02:00"
   },
   {
     "path": "posts/2020-11-10-graphicdescription/",

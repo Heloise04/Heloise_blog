@@ -32,21 +32,26 @@ The future of healthcare is shaping with advances in digital healthcare technolo
 
 | Words from the text 	| Synonym / explanation in English 	| French translation |
 |:-------------------:	|:--------------------------------:	|:----------------:	|
-|dystopias|||
-|betterment|||
-|root|||
-|disrupting|||
-|wielded|||
-|counterparts|||
-|soothing|||
-|albeit|||
-|depictions|||
-|remotely|||
-|almighty|||
-|figment|||
-|yoked|||
-|leveraging|||
-|wound|||
+|dystopias|an imaginary place or state in which everything is extremely bad or unpleasant
+syn : utopia
+|dystopies|
+|betterment|the process of becoming or making something/somebody better
+syn : improvement
+|amélioration|
+|root|the main cause of something, such as a problem or difficult situation|origine, source|
+|disrupting|to make it difficult for something to continue in the normal way|perturber|
+|wielded|to have and use power, authority,…|manié|
+|counterparts|a person or thing that has the same position or function as somebody/something else in a different place or situation|homologues|
+|soothing|hat makes somebody who is anxious, upset,... feel calmer|apaisante|
+|albeit|although|quoique, bien que|
+|depictions|the act of showing what somebody/something is like in words or pictures, especially in a work of art|représentations|
+|remotely|(usually in negative sentences)to a very slight degree
+syn : slightly|à distance|
+|almighty|having complete power|tout-puissant, omnipotent|
+|figment|something that somebody has imagined and that does not really exist|invention|
+|yoked|to join two animals together with a yoke; to attach an animal to something with a yoke|attelé, accouplé|
+|leveraging|to get as much advantage or profit as possible from something that you have|tirer parti|
+|wound|an injury to part of the body, especially one in which a hole is made in the skin using a weapon|plaie, blessure|
 
 
 ## Analysis table about the study

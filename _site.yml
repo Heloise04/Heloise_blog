@@ -13,6 +13,8 @@ navbar:
       href: "posts/introduction/index.html"
     - text: "Conclusion"
       href: "posts/conclusion/index.html"
+    - text: "Bibliography"
+      href: "posts/bibliography/index.html"
     - icon: fab fa-github
       href: https://github.com/Heloise04/Heloise_blog
 base_url: http://Heloise04.github.io/Heloise_blog/

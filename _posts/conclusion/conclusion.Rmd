@@ -13,8 +13,13 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+In conclusion and with my personal experience, I can say that technology has made a lot of progress, especially in computer science but even in medicine. And it will continue to make progress for a long time to come.
 
+For a long time now, some people criticize that technology would take too much space in our society. But the real question is : "Could we still do without it ?". 
 
+First of all, it’s difficult to imagine reliving as it was a century ago. Technology brings us comfort in life that we can’t find without it. For example, looking for the definition of a word has become simpler, having information on anything is accessible to anyone on a phone, you can’t do that without this technology, or you need a very large house with a very large library. 
+
+In addition, even if we don’t ask for as much functionality or new technologies, these are in a way imposed to us by the manufacturers who affiliate us with them. For example : I don’t think that you can buy a car without a radio or air conditioner and even if you ask for it you won’t pay less because now it’s automatically included in the car. Another example more recent is the fiber or the 5G even if you don’t want it, mobile phone and house will be automatically equipped by them.
+
+Finally, I can also say that I noticed that technology brings more benefits than disadvantages or even danger. And the disadvantages can be controlled if we pay attention. 
+Like everything technology has its pros and cons. 

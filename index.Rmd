@@ -12,6 +12,7 @@ listing:
   - mon-article6
   - mon-article7
   - conclusion
+  - bibliography
   - portfolio1 
   - portfolio2
   - about

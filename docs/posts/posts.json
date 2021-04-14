@@ -54,7 +54,7 @@
       "Other porfolio"
     ],
     "preview": {},
-    "last_modified": "2021-04-14T22:03:48+02:00"
+    "last_modified": "2021-04-14T22:06:29+02:00"
   },
   {
     "path": "posts/mon-article7/",
@@ -97,6 +97,25 @@
     "last_modified": "2021-03-14T23:03:39+01:00"
   },
   {
+    "path": "posts/bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Plasman Héloïse",
+        "url": {
+          "http://Heloise04.github.io/Heloise_blog/": {}
+        }
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-14T22:01:46+02:00"
+  },
+  {
     "path": "posts/conclusion/",
     "title": "Conclusion",
     "description": "End and conclusion of my work.",
@@ -114,25 +133,6 @@
     ],
     "preview": {},
     "last_modified": "2021-04-14T21:57:49+02:00"
-  },
-  {
-    "path": "posts/bibliography/",
-    "title": "Bibliography",
-    "description": {},
-    "author": [
-      {
-        "name": "Plasman Héloïse",
-        "url": {
-          "http://Heloise04.github.io/Heloise_blog/": {}
-        }
-      }
-    ],
-    "date": "2021-01-01",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2021-04-14T22:01:45+02:00"
   },
   {
     "path": "posts/mon-article4/",

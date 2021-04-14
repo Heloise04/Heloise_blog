@@ -17,9 +17,9 @@ I have chosen to summarise the portfolio of Matteo Spagnolo which talks about qu
 With what I read and understood with my very poor knowledge of quantum physics, it seems that his articles are talking about all the new advances that can be made with quantum physics to improve the tools that we already have.
 His first article talks about a theory where we could mix relativity and quantum physics to measure two different times with a quantum clock to create Schrödinger’s clock. 
 
-Note : Erwin Schrödinger is a scientist and is the father of quantum physics. He exposes several times the principle of duality; something can be in two different states at the same time, it is the basis of quantum physics : 
-•	1 and 0
-•	wave and particle (light)
+Note : Erwin Schrödinger is a scientist and is the father of quantum physics. He exposes several times the principle of duality; something can be in two different states at the same time, it is the basis of quantum physics :  
+•	1 and 0  
+•	wave and particle (light)  
 •	intact and disintegrated (cat of Schrödinger) 
 
 and the article seems to go in the same way, when they say that they want to measure 2 different times. 

@@ -32,7 +32,7 @@ The future of healthcare is shaping with advances in digital healthcare technolo
 
 | Words from the text 	| Synonym / explanation in English 	| French translation |
 |:-------------------:	|:--------------------------------:	|:----------------:	|
-|dystopias|an imaginary place or state in which everything is extremely bad or unpleasant syn : utopia |dystopies|
+|dystopias|an imaginary place or state in which everything is extremely bad or unpleasant syn : utopia|dystopies|
 |betterment|the process of becoming or making something/somebody better syn : improvement|amélioration|
 |root|the main cause of something, such as a problem or difficult situation|origine, source|
 |disrupting|to make it difficult for something to continue in the normal way|perturber|

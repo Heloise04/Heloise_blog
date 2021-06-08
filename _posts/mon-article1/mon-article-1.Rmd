@@ -43,9 +43,9 @@ But the actual diagnosis will always be taken by the doctor and the AI will neve
 ## Vocabulary: 
 
 | Words from the text 	| Synonym / explanation in English 	| French translation |
-|:-------------------:	|:--------------------------------:	|:------- ---------:	|
+|:-------------------:	|:--------------------------------:	|:----------------:	|
 |samples|Small number or amount of sb/sth that is looked at, tested, examined,…. To find out what the rest is like|échantillons|
-|excerpts|A short piece taken from a book, film, piece of music, ...|extraits|
+|excerpts|A short piece taken from a book, film, piece of music,...|extraits|
 |acknowledged|To accept or admit that sth is true or exist|accuser réception|
 
 
